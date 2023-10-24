@@ -6,7 +6,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@Theme(value= "mytodo")
+@Theme(value= "")
 public class DemoApplication implements AppShellConfigurator {
 
 	public static void main(String[] args) {
