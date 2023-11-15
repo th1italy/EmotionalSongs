@@ -1,6 +1,7 @@
 package emotionalsongs;
 
 import com.vaadin.flow.component.page.AppShellConfigurator;
+import com.vaadin.flow.router.Route;
 import com.vaadin.flow.theme.Theme;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,7 +9,7 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 
 /**
  * @author Alessandro Bugno
- * @author Daniele Maccagna
+ * @author Daniele Maccagnan
  * @author Tommaso Mariani
  */
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})

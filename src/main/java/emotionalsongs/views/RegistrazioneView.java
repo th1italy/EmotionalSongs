@@ -1,5 +1,7 @@
 package emotionalsongs.views;
 
+import com.helger.commons.collection.impl.ICommonsList;
+import com.helger.commons.csv.CSVReader;
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.button.ButtonVariant;
 import com.vaadin.flow.component.combobox.ComboBox;
@@ -16,8 +18,12 @@ import com.vaadin.flow.component.textfield.TextField;
 import com.vaadin.flow.router.PageTitle;
 import com.vaadin.flow.router.Route;
 
+import java.io.BufferedReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.sql.SQLException;
 import java.time.LocalDate;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -88,20 +94,39 @@ public class RegistrazioneView extends VerticalLayout {
 
         password = new PasswordField("Password", "Scegli una password");
         password.setSuffixComponent(VaadinIcon.LOCK.create());
-
         confirmPassword = new PasswordField("Conferma Password", "Conferma la password");
         confirmPassword.setSuffixComponent(VaadinIcon.LOCK.create());
 
         calcolaCf = new Button("Codice Fiscale", e -> calcolaCodFiscale());
         calcolaCf.addThemeVariants(ButtonVariant.LUMO_PRIMARY, ButtonVariant.LUMO_ERROR, ButtonVariant.LUMO_CONTRAST); // Aggiungi ButtonVariant.LUMO_CONTRAST
         calcolaCf.setSuffixComponent(VaadinIcon.CALC_BOOK.create());
+        try {
+            String comuni = "META-INF/resources/data/Comuni.csv";
+            InputStream input = this.getClass().getClassLoader().getResourceAsStream(comuni);
 
-        registrazione.add(
-                nome, cognome, dataNascita, sesso,
-                luogoNascita, via_piazza, codFiscale,
-                calcolaCf, email, username,
-                password, confirmPassword
-        );
+            assert input != null;
+
+            BufferedReader breader = new BufferedReader(new InputStreamReader(input));
+
+            CSVReader reader = new CSVReader(breader);
+
+            ICommonsList<ICommonsList<String>> data = reader.readAll();
+
+            List<String> comunii = new ArrayList<>();
+
+            for (ICommonsList<String> row : data) {
+                comunii.add(row.get(0));
+            }
+
+            luogoNascita.setItems(comunii);
+
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
+        registrazione.add(nome, cognome, dataNascita, sesso,
+                            luogoNascita, via_piazza, codFiscale,
+                            calcolaCf, email, username,
+                            password, confirmPassword);
     }
 
     private void configureButton() {
