@@ -27,7 +27,7 @@ public class MainView extends AppLayout {
         Icon logo = new Icon("images/codicefiscale.png");
         logo.setSize("40px");
         appName.addClassNames(LumoUtility.FontSize.LARGE, LumoUtility.Margin.NONE);
-        appName.getElement().getStyle().set("margin-top", "-45px"); // Aggiungi spazio superiore
+        appName.getElement().getStyle().set("margin-top", "-35px"); // Aggiungi spazio superiore
         Header header = new Header(logo, appName);
 
         // Aggiungi il pulsante "Playlist" con icona
