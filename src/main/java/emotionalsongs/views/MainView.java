@@ -1,5 +1,6 @@
 package emotionalsongs.views;
 
+import com.vaadin.flow.component.UI;
 import com.vaadin.flow.component.applayout.AppLayout;
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.dialog.Dialog;
@@ -59,7 +60,8 @@ public class MainView extends AppLayout {
         // Aggiungi un link per la registrazione
         Button registerButton = new Button("Nuovo? Registrati");
         registerButton.addClickListener(event -> {
-            // Qui puoi implementare la logica per aprire la finestra di registrazione
+            UI.getCurrent().navigate(RegistrazioneView.class);
+            loginDialog.close();
             // Potresti chiudere anche la finestra di login prima di aprire quella di registrazione
         });
 
