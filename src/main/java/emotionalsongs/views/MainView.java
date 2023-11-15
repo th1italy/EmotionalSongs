@@ -17,7 +17,8 @@ public class MainView extends VerticalLayout {
         getStyle().set("background-color", "#C2C2D6");
 
         // Crea un'icona personalizzata dall'immagine
-        Image customIcon = new Image("images/logo.png", "logo");
+
+        Image customIcon = new Image("images/logo.jpg", "logo");
         customIcon.setHeight("100px");
         customIcon.setWidth("100px");
 
