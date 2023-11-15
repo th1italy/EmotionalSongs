@@ -37,6 +37,7 @@ public class MainView extends VerticalLayout {
         // Aggiungi gli elementi al layout
         add(headerLayout, loginButton);
 
+
         // Allinea il pulsante "Login" in alto a destra
         setHorizontalComponentAlignment(Alignment.END, loginButton);
     }
