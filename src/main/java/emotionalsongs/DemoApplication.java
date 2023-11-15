@@ -11,7 +11,7 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
  * @author Daniele Maccagna
  * @author Tommaso Mariani
  */
-@SpringBootApplication()
+@SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
 @Theme(value= "")
 public class DemoApplication implements AppShellConfigurator {
 

@@ -18,6 +18,7 @@
 		<vaadin.version>24.1.12</vaadin.version>
 	</properties>
 	<dependencies>
+		<!-- vaadin starter -->
 		<dependency>
 			<groupId>com.vaadin</groupId>
 			<artifactId>vaadin-spring-boot-starter</artifactId>
