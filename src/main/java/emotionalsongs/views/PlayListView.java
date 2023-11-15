@@ -19,10 +19,10 @@ import com.vaadin.flow.theme.lumo.Lumo;
 import com.vaadin.flow.theme.lumo.LumoUtility;
 import com.vaadin.flow.component.button.ButtonVariant;
 
-@Route("mainview")
-public class MainView extends AppLayout {
+@Route("playlist")
+public class PlayListView extends AppLayout {
 
-    public MainView() {
+    public PlayListView() {
         H1 appName = new H1("EmotionalSongs");
         Icon logo = new Icon("images/codicefiscale.png");
         logo.setSize("40px");
@@ -30,19 +30,20 @@ public class MainView extends AppLayout {
         appName.getElement().getStyle().set("margin-top", "-45px"); // Aggiungi spazio superiore
         Header header = new Header(logo, appName);
 
-        // Aggiungi il pulsante "Playlist" con icona
-        Button playlistButton = new Button("PlayList");
-        playlistButton.setIcon(new Icon(VaadinIcon.MUSIC));
-        playlistButton.addThemeVariants(ButtonVariant.LUMO_ICON); // Aggiungi il tema per l'icona
-        playlistButton.getStyle().set("margin-right", "10px"); // Aggiungi un margine destro
-        playlistButton.addClickListener(e -> UI.getCurrent().navigate("playlist"));
+        // Aggiungi il pulsante "Ricerca" con icona
+        Button searchButton = new Button("Ricerca");
+        searchButton.setIcon(new Icon(VaadinIcon.SEARCH));
+        searchButton.addThemeVariants(ButtonVariant.LUMO_ICON); // Aggiungi il tema per l'icona
+        searchButton.getStyle().set("margin-right", "10px"); // Aggiungi un margine destro
+        // Aggiungi qui la logica per la ricerca
+        searchButton.addClickListener(e -> UI.getCurrent().navigate("mainview"));
 
         // Aggiungi il pulsante Login direttamente alla navbar
         Button loginButton = new Button("Login");
         loginButton.setIcon(new Icon(VaadinIcon.USER));
         loginButton.addClickListener(event -> openLoginDialog());
 
-        HorizontalLayout headerLayout = new HorizontalLayout(playlistButton, header, loginButton);
+        HorizontalLayout headerLayout = new HorizontalLayout(searchButton, header, loginButton);
         headerLayout.setDefaultVerticalComponentAlignment(FlexComponent.Alignment.CENTER);
         headerLayout.setWidthFull();
         headerLayout.setPadding(true);
@@ -99,8 +100,6 @@ public class MainView extends AppLayout {
 
         // Aggiungi il form e i pulsanti al dialogo
         loginDialog.add(formLayout, buttonLayout);
-
-
 
         loginDialog.open();
     }
