@@ -155,7 +155,7 @@ public class RegistrazioneView extends VerticalLayout {
         nome.setSuffixComponent(VaadinIcon.USER.create());
         cognome.setSuffixComponent(VaadinIcon.USER.create());
         codFiscale.setSuffixComponent(VaadinIcon.BARCODE.create());
-        Icon CF = new Icon("/frontend/generated/images/codicefiscaleicon.png");
+        Icon CF = new Icon("C:\\Users\\danym\\Desktop\\demo\\demo\\src\\main\\resources\\META-INF\\resources\\images\\codicefiscaleicon.png");
         codFiscale.setSuffixComponent(CF);
         via_piazza.setSuffixComponent(VaadinIcon.HOME.create());
         email.setSuffixComponent(VaadinIcon.ENVELOPE.create());

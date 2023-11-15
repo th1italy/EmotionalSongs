@@ -4,8 +4,7 @@ import com.vaadin.flow.component.UI;
 import com.vaadin.flow.component.applayout.AppLayout;
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.dialog.Dialog;
-import com.vaadin.flow.component.html.Image;
-import com.vaadin.flow.component.html.Span;
+import com.vaadin.flow.component.html.*;
 import com.vaadin.flow.component.icon.Icon;
 import com.vaadin.flow.component.icon.VaadinIcon;
 import com.vaadin.flow.component.orderedlayout.FlexComponent;
@@ -13,20 +12,22 @@ import com.vaadin.flow.component.orderedlayout.HorizontalLayout;
 import com.vaadin.flow.component.textfield.PasswordField;
 import com.vaadin.flow.component.textfield.TextField;
 import com.vaadin.flow.router.Route;
+import com.vaadin.flow.theme.lumo.LumoUtility;
 
 @Route("")
 public class MainView extends AppLayout {
 
     public MainView() {
-        Image customIcon = new Image("images/logo.png", "logo");
-        customIcon.setHeight("100px");
-        customIcon.setWidth("100px");
+        H1 appName = new H1("EmotionalSongs");
+        Icon logo = new Icon("images/codicefiscale.png");
+        logo.setSize("40px");
+        logo.setSize("40px");
+        appName.addClassNames(LumoUtility.FontSize.LARGE, LumoUtility.Margin.NONE);
+        Header header = new Header(logo, appName);
 
-        Span text = new Span("EmotionalSongs");
-        text.getElement().getStyle().set("font-size", "1.2em");
 
-        HorizontalLayout headerLayout = new HorizontalLayout(customIcon, text);
-        headerLayout.setAlignItems(FlexComponent.Alignment.CENTER);
+        addToDrawer(header,  new Footer());
+
 
         Button loginButton = new Button("Login");
         loginButton.setIcon(new Icon(VaadinIcon.USER));
@@ -34,7 +35,7 @@ public class MainView extends AppLayout {
 
         loginButton.addClickListener(event -> openLoginDialog());
 
-        addToNavbar(headerLayout, loginButton);
+        addToNavbar(loginButton);
     }
 
     private void openLoginDialog() {
