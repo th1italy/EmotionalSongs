@@ -15,7 +15,6 @@ import com.vaadin.flow.component.orderedlayout.HorizontalLayout;
 import com.vaadin.flow.component.textfield.PasswordField;
 import com.vaadin.flow.component.textfield.TextField;
 import com.vaadin.flow.router.Route;
-import com.vaadin.flow.theme.lumo.Lumo;
 import com.vaadin.flow.theme.lumo.LumoUtility;
 import com.vaadin.flow.component.button.ButtonVariant;
 
@@ -24,7 +23,7 @@ public class MainView extends AppLayout {
 
     public MainView() {
         H1 appName = new H1("EmotionalSongs");
-        Icon logo = new Icon("images/codicefiscale.png");
+        Icon logo = new Icon("images/logo.png");
         logo.setSize("40px");
         appName.addClassNames(LumoUtility.FontSize.LARGE, LumoUtility.Margin.NONE);
         appName.getElement().getStyle().set("margin-top", "-35px"); // Aggiungi spazio superiore
@@ -42,17 +41,20 @@ public class MainView extends AppLayout {
         loginButton.setIcon(new Icon(VaadinIcon.USER));
         loginButton.addClickListener(event -> openLoginDialog());
 
-        HorizontalLayout headerLayout = new HorizontalLayout(playlistButton, header, loginButton);
+        HorizontalLayout headerLayout = new HorizontalLayout(header);
         headerLayout.setDefaultVerticalComponentAlignment(FlexComponent.Alignment.CENTER);
         headerLayout.setWidthFull();
         headerLayout.setPadding(true);
         headerLayout.setFlexGrow(1, header); // Espandi header per occupare tutto lo spazio disponibile
         headerLayout.setAlignItems(FlexComponent.Alignment.CENTER); // Allinea al centro verticalmente
-        headerLayout.setJustifyContentMode(FlexComponent.JustifyContentMode.BETWEEN); // Allinea gli elementi ai lati
+
+        HorizontalLayout menuLayout = new HorizontalLayout(playlistButton, loginButton);
+        menuLayout.setAlignItems(FlexComponent.Alignment.CENTER);
 
         addToDrawer(new Footer());
-        addToNavbar(headerLayout);
+        addToNavbar(headerLayout, menuLayout);
     }
+
 
     private void openLoginDialog() {
         Dialog loginDialog = new Dialog();

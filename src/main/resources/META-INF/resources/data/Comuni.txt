@@ -1,7 +1,8 @@
-Aglie
+Agliè
 Airasca
 Ala di Stura
 Albiano d'Ivrea
+Alice Superiore
 Almese
 Alpette
 Alpignano
@@ -82,7 +83,7 @@ Chivasso
 Ciconio
 Cintano
 Cinzano
-Cirie
+Ciriè
 Claviere
 Coassolo Torinese
 Coazze
@@ -94,7 +95,7 @@ Corio
 Cossano Canavese
 Cuceglio
 Cumiana
-Cuorgne
+Cuorgnè
 Druento
 Exilles
 Favria
@@ -133,19 +134,21 @@ Levone
 Locana
 Lombardore
 Lombriasco
-Loranze
+Loranzè
+Lugnacco
 Luserna San Giovanni
 Lusernetta
-Lusiglie
+Lusigliè
 Macello
 Maglione
 Marentino
 Massello
 Mathi
 Mattie
-Mazze
+Mazzè
 Meana di Susa
 Mercenasco
+Meugliano
 Mezzenile
 Mombello di Torino
 Mompantero
@@ -176,6 +179,7 @@ Pancalieri
 Parella
 Pavarolo
 Pavone Canavese
+Pecco
 Pecetto Torinese
 Perosa Argentina
 Perosa Canavese
@@ -192,7 +196,7 @@ Piscina
 Piverone
 Poirino
 Pomaretto
-Pont Canavese
+Pont-Canavese
 Porte
 Pragelato
 Prali
@@ -219,7 +223,7 @@ Roletto
 Romano Canavese
 Ronco Canavese
 Rondissone
-Rora
+Rorà
 Roure
 Rosta
 Rubiana
@@ -270,6 +274,7 @@ Torrazza Piemonte
 Torre Canavese
 Torre Pellice
 Trana
+Trausella
 Traversella
 Traves
 Trofarello
@@ -287,8 +292,9 @@ Venaus
 Venaria Reale
 Verolengo
 Verrua Savoia
-Vestigne
-Vialfre
+Vestignè
+Vialfrè
+Vico Canavese
 Vidracco
 Vigone
 Villafranca Piemonte
@@ -304,12 +310,10 @@ Vinovo
 Virle Piemonte
 Vische
 Vistrorio
-Viu
+Viù
 Volpiano
 Volvera
 Mappano
-Val di Chy
-Valchiusa
 Alagna Valsesia
 Albano Vercellese
 Alice Castello
@@ -317,7 +321,7 @@ Arborio
 Asigliano Vercellese
 Balmuccia
 Balocco
-Bianze
+Bianzè
 Boccioleto
 Borgo d'Ale
 Borgosesia
@@ -367,6 +371,7 @@ Quarona
 Quinto Vercellese
 Rassa
 Rimella
+Riva Valdobbia
 Rive
 Roasio
 Ronsecco
@@ -376,7 +381,7 @@ Salasco
 Sali Vercellese
 Saluggia
 San Germano Vercellese
-Santhia
+Santhià
 Scopa
 Scopello
 Serravalle Sesia
@@ -431,6 +436,7 @@ Fontaneto d'Agogna
 Galliate
 Garbagna Novarese
 Gargallo
+Gattico
 Ghemme
 Gozzano
 Granozzo con Monticello
@@ -475,10 +481,10 @@ Tornaco
 Trecate
 Vaprio d'Agogna
 Varallo Pombia
+Veruno
 Vespolate
 Vicolungo
 Vinzaglio
-Gattico-Veruno
 Acceglio
 Aisone
 Alba
@@ -514,17 +520,19 @@ Brondello
 Brossasco
 Busca
 Camerana
+Camo
 Canale
 Canosio
 Caprauna
 Caraglio
 Caramagna Piemonte
-Carde
-Carru
+Cardè
+Carrù
 Cartignano
 Casalgrasso
 Castagnito
 Casteldelfino
+Castellar
 Castelletto Stura
 Castelletto Uzzone
 Castellinaldo d'Alba
@@ -545,7 +553,7 @@ Cervere
 Ceva
 Cherasco
 Chiusa di Pesio
-Ciglie
+Cigliè
 Cissone
 Clavesana
 Corneliano d'Alba
@@ -609,7 +617,7 @@ Monchiero
 Mondovì
 Monesiglio
 Monforte d'Alba
-Monta
+Montà
 Montaldo di Mondovì
 Montaldo Roero
 Montanera
@@ -664,7 +672,7 @@ Roascio
 Robilante
 Roburent
 Roccabruna
-Rocca Ciglie
+Rocca Cigliè
 Rocca de' Baldi
 Roccaforte Mondovì
 Roccasparvera
@@ -684,7 +692,7 @@ Sambuco
 Sampeyre
 San Benedetto Belbo
 San Damiano Macra
-Sanfre
+Sanfrè
 Sanfront
 San Michele Mondovì
 Sant'Albano Stura
@@ -708,10 +716,11 @@ Torre San Giorgio
 Torresina
 Treiso
 Trezzo Tinella
-Trinita
+Trinità
 Valdieri
 Valgrana
 Valloriate
+Valmala
 Venasca
 Verduno
 Vernante
@@ -739,13 +748,13 @@ Bruno
 Bubbio
 Buttigliera d'Asti
 Calamandrana
-Calliano Monferrato
+Calliano
 Calosso
 Camerano Casasco
 Canelli
 Cantarana
 Capriglio
-Casorzo Monferrato
+Casorzo
 Cassinasco
 Castagnole delle Lanze
 Castagnole Monferrato
@@ -780,7 +789,7 @@ Dusino San Michele
 Ferrere
 Fontanile
 Frinco
-Grana Monferrato
+Grana
 Grazzano Badoglio
 Incisa Scapaccino
 Isola d'Asti
@@ -802,13 +811,14 @@ Montaldo Scarampi
 Montechiaro d'Asti
 Montegrosso d'Asti
 Montemagno
+Moransengo
 Nizza Monferrato
 Olmo Gentile
 Passerano Marmorito
 Penango
 Piea
 Pino d'Asti
-Piova Massaia
+Piovà Massaia
 Portacomaro
 Quaranti
 Refrancore
@@ -831,6 +841,7 @@ Settime
 Soglio
 Tigliole
 Tonco
+Tonengo
 Vaglio Serra
 Valfenera
 Vesime
@@ -842,7 +853,6 @@ Villanova d'Asti
 Villa San Secondo
 Vinchio
 Montiglio Monferrato
-Moransengo-Tonengo
 Acqui Terme
 Albera Ligure
 Alessandria
@@ -885,7 +895,7 @@ Casalnoceto
 Casasco
 Cassine
 Cassinelle
-Castellania Coppi
+Castellania
 Castellar Guidobono
 Castellazzo Bormida
 Castelletto d'Erro
@@ -904,6 +914,7 @@ Coniolo
 Conzano
 Costa Vescovato
 Cremolino
+Cuccaro Monferrato
 Denice
 Dernice
 Fabbrica Curone
@@ -927,6 +938,7 @@ Grondona
 Guazzora
 Isola Sant'Antonio
 Lerma
+Lu
 Malvicino
 Masio
 Melazzo
@@ -1029,7 +1041,6 @@ Volpeglino
 Voltaggio
 Cassano Spinola
 Alluvioni Piovera
-Lu e Cuccaro Monferrato
 Ailoche
 Andorno Micca
 Benna
@@ -1044,7 +1055,8 @@ Candelo
 Caprile
 Casapinta
 Castelletto Cervo
-Cavaglia
+Cavaglià
+Cerreto Castello
 Cerrione
 Coggiola
 Cossato
@@ -1074,6 +1086,7 @@ Ponderano
 Portula
 Pralungo
 Pray
+Quaregna
 Ronco Biellese
 Roppolo
 Rosazza
@@ -1081,6 +1094,7 @@ Sagliano Micca
 Sala Biellese
 Salussola
 Sandigliano
+Soprana
 Sordevolo
 Sostegno
 Strona
@@ -1088,8 +1102,10 @@ Tavigliano
 Ternengo
 Tollegno
 Torrazzo
+Trivero
 Valdengo
 Vallanzengo
+Valle Mosso
 Valle San Nicolao
 Veglio
 Verrone
@@ -1100,10 +1116,9 @@ Viverone
 Zimone
 Zubiena
 Zumaglia
+Mosso
 Lessona
 Campiglia Cervo
-Quaregna Cerreto
-Valdilana
 Antrona Schieranco
 Anzola d'Ossola
 Arizzano
@@ -1123,14 +1138,17 @@ Cannero Riviera
 Cannobio
 Caprezzo
 Casale Corte Cerro
+Cavaglio-Spoccia
 Ceppo Morelli
 Cesara
 Cossogno
 Craveggia
 Crevoladossola
 Crodo
+Cursolo-Orasso
 Domodossola
 Druogno
+Falmenta
 Formazza
 Germagno
 Ghiffa
@@ -1177,9 +1195,8 @@ Villadossola
 Villette
 Vogogna
 Borgomezzavalle
-Valle Cannobina
 Allein
-Antey-Saint-Andre
+Antey-Saint-André
 Aosta
 Arnad
 Arvier
@@ -1202,14 +1219,14 @@ Cogne
 Courmayeur
 Donnas
 Doues
-Emarese
+Emarèse
 Etroubles
-Fenis
+Fénis
 Fontainemore
 Gaby
 Gignod
 Gressan
-Gressoney-La-Trinite
+Gressoney-La-Trinité
 Gressoney-Saint-Jean
 Hône
 Introd
@@ -1230,7 +1247,7 @@ Pollein
 Pontboset
 Pontey
 Pont-Saint-Martin
-Pre-Saint-Didier
+Pré-Saint-Didier
 Quart
 Rhêmes-Notre-Dame
 Rhêmes-Saint-Georges
@@ -1241,7 +1258,7 @@ Saint-Marcel
 Saint-Nicolas
 Saint-Oyen
 Saint-Pierre
-Saint-Rhemy-en-Bosses
+Saint-Rhémy-en-Bosses
 Saint-Vincent
 Sarre
 Torgnon
@@ -1250,7 +1267,7 @@ Valpelline
 Valsavarenche
 Valtournenche
 Verrayes
-Verres
+Verrès
 Villeneuve
 Agra
 Albizzate
@@ -1260,6 +1277,7 @@ Arsago Seprio
 Azzate
 Azzio
 Barasso
+Bardello
 Bedero Valcuvia
 Besano
 Besnate
@@ -1268,6 +1286,7 @@ Biandronno
 Bisuschio
 Bodio Lomnago
 Brebbia
+Bregano
 Brenta
 Brezzo di Bedero
 Brinzio
@@ -1277,6 +1296,7 @@ Brusimpiano
 Buguggiate
 Busto Arsizio
 Cadegliano-Viconago
+Cadrezzate
 Cairate
 Cantello
 Caravate
@@ -1342,6 +1362,7 @@ Lonate Pozzolo
 Lozza
 Luino
 Luvinate
+Malgesso
 Malnate
 Marchirolo
 Marnate
@@ -1357,6 +1378,7 @@ Oggiona con Santo Stefano
 Olgiate Olona
 Origgio
 Orino
+Osmate
 Porto Ceresio
 Porto Valtravaglia
 Rancio Valcuvia
@@ -1382,12 +1404,10 @@ Vedano Olona
 Venegono Inferiore
 Venegono Superiore
 Vergiate
-Viggiu
+Viggiù
 Vizzola Ticino
 Sangiano
 Maccagno con Pino e Veddasca
-Cadrezzate con Osmate
-Bardello con Malgesso e Bregano
 Albavilla
 Albese con Cassano
 Albiolo
@@ -1413,8 +1433,9 @@ Bulgarograsso
 Cabiate
 Cadorago
 Caglio
+Cagno
 Campione d'Italia
-Cantu
+Cantù
 Canzo
 Capiago Intimiano
 Carate Urio
@@ -1447,7 +1468,7 @@ Erba
 Eupilio
 Faggeto Lario
 Faloppio
-Fenegro
+Fenegrò
 Figino Serenza
 Fino Mornasco
 Garzeno
@@ -1510,6 +1531,7 @@ San Fermo della Battaglia
 San Nazzaro Val Cavargna
 Schignano
 Senna Comasco
+Solbiate
 Sorico
 Sormano
 Stazzona
@@ -1535,7 +1557,6 @@ Colverde
 Tremezzina
 Alta Valle Intelvi
 Centro Valle Intelvi
-Solbiate con Cagno
 Albaredo per San Marco
 Albosaggia
 Andalo Valtellino
@@ -1736,21 +1757,22 @@ Truccazzano
 Turbigo
 Vanzago
 Vaprio d'Adda
+Vermezzo
 Vernate
 Vignate
 Vimodrone
 Vittuone
 Vizzolo Predabissi
+Zelo Surrigone
 Zibido San Giacomo
 Villa Cortese
 Vanzaghello
 Baranzate
-Vermezzo con Zelo
 Adrara San Martino
 Adrara San Rocco
 Albano Sant'Alessandro
 Albino
-Alme
+Almè
 Almenno San Bartolomeo
 Almenno San Salvatore
 Alzano Lombardo
@@ -1974,7 +1996,7 @@ Viadanica
 Vigano San Martino
 Vigolo
 Villa d'Adda
-Villa d'Alme
+Villa d'Almè
 Villa di Serio
 Villa d'Ogna
 Villongo
@@ -2145,19 +2167,19 @@ Preseglie
 Prevalle
 Provaglio d'Iseo
 Provaglio Val Sabbia
-Puegnago del Garda
+Puegnago sul Garda
 Quinzano d'Oglio
 Remedello
 Rezzato
 Roccafranca
 Rodengo Saiano
-Roe Volciano
+Roè Volciano
 Roncadelle
 Rovato
 Rudiano
 Sabbio Chiese
 Sale Marasino
-Salo
+Salò
 San Felice del Benaco
 San Gervasio Bresciano
 San Zeno Naviglio
@@ -2171,7 +2193,7 @@ Soiano del Lago
 Sonico
 Sulzano
 Tavernole sul Mella
-Temu
+Temù
 Tignale
 Torbole Casaglia
 Toscolano-Maderno
@@ -2202,7 +2224,7 @@ Arena Po
 Badia Pavese
 Bagnaria
 Barbianello
-Bascape
+Bascapè
 Bastida Pancarana
 Battuda
 Belgioioso
@@ -2220,6 +2242,7 @@ Broni
 Calvignano
 Campospinoso
 Candia Lomellina
+Canevino
 Canneto Pavese
 Carbonara al Ticino
 Casanova Lonati
@@ -2257,7 +2280,7 @@ Fortunago
 Frascarolo
 Galliavola
 Gambarana
-Gambolo
+Gambolò
 Garlasco
 Gerenzago
 Giussago
@@ -2288,7 +2311,7 @@ Montecalvo Versiggia
 Montescano
 Montesegale
 Monticelli Pavese
-Montu Beccaria
+Montù Beccaria
 Mornico Losana
 Mortara
 Nicorvo
@@ -2320,6 +2343,7 @@ Romagnese
 Roncaro
 Rosasco
 Rovescala
+Ruino
 San Cipriano Po
 San Damiano al Colle
 San Genesio ed Uniti
@@ -2349,7 +2373,7 @@ Torre de' Negri
 Torre d'Isola
 Torrevecchia Pia
 Torricella Verzate
-Travaco Siccomario
+Travacò Siccomario
 Trivolzio
 Tromello
 Trovo
@@ -2357,6 +2381,7 @@ Val di Nizza
 Valeggio
 Valle Lomellina
 Valle Salimbene
+Valverde
 Varzi
 Velezzo Lomellina
 Vellezzo Bellini
@@ -2375,11 +2400,10 @@ Zeccone
 Zeme
 Zenevredo
 Zerbo
-Zerbolo
+Zerbolò
 Zinasco
 Cornale e Bastida
 Corteolona e Genzone
-Colli Verdi
 Acquanegra Cremonese
 Agnadello
 Annicco
@@ -2387,6 +2411,7 @@ Azzanello
 Bagnolo Cremasco
 Bonemerse
 Bordolano
+Ca' d'Andrea
 Calvatone
 Camisano
 Campagnola Cremasca
@@ -2420,6 +2445,7 @@ Crotta d'Adda
 Cumignano sul Naviglio
 Derovere
 Dovera
+Drizzona
 Fiesco
 Formigara
 Gabbioneta-Binanuova
@@ -2448,6 +2474,7 @@ Pandino
 Persico Dosimo
 Pescarolo ed Uniti
 Pessina Cremonese
+Piadena
 Pianengo
 Pieranica
 Pieve d'Olmi
@@ -2492,12 +2519,14 @@ Vailate
 Vescovato
 Volongo
 Voltido
-Piadena Drizzona
 Acquanegra sul Chiese
 Asola
 Bagnolo San Vito
+Bigarello
+Borgofranco sul Po
 Bozzolo
 Canneto sull'Oglio
+Carbonara di Po
 Casalmoro
 Casaloldo
 Casalromano
@@ -2542,7 +2571,7 @@ Roverbella
 Sabbioneta
 San Benedetto Po
 San Giacomo delle Segnate
-San Giorgio Bigarello
+San Giorgio di Mantova
 San Giovanni del Dosso
 San Martino dall'Argine
 Schivenoglia
@@ -2556,13 +2585,12 @@ Villimpenta
 Volta Mantovana
 Borgo Virgilio
 Borgo Mantovano
-Borgocarbonara
 Abbadia Lariana
 Airuno
 Annone di Brianza
 Ballabio
 Barzago
-Barzano
+Barzanò
 Barzio
 Bellano
 Bosisio Parini
@@ -2627,7 +2655,7 @@ Premana
 Primaluna
 Robbiate
 Rogeno
-Santa Maria Hoe
+Santa Maria Hoè
 Sirone
 Sirtori
 Sueglio
@@ -2636,8 +2664,9 @@ Taceno
 Valgreghentino
 Valmadrera
 Varenna
+Vendrogno
 Vercurago
-Vigano
+Viganò
 Verderio
 La Valletta Brianza
 Valvarrone
@@ -2734,7 +2763,7 @@ Meda
 Mezzago
 Misinto
 Monza
-Muggio
+Muggiò
 Nova Milanese
 Ornago
 Renate
@@ -2786,7 +2815,7 @@ Curon Venosta
 Dobbiaco
 Egna
 Falzes
-Fie allo Sciliar
+Fiè allo Sciliar
 Fortezza
 Funes
 Gais
@@ -2800,7 +2829,7 @@ Lana
 Lasa
 Lauregno
 Luson
-Magre sulla strada del vino
+Magrè sulla strada del vino
 Malles Venosta
 Marebbe
 Marlengo
@@ -2831,7 +2860,7 @@ Renon
 Rifiano
 Rio di Pusteria
 Rodengo
-Salorno sulla strada del vino
+Salorno
 San Candido
 San Genesio Atesino
 San Leonardo in Passiria
@@ -2878,7 +2907,7 @@ Aldeno
 Andalo
 Arco
 Avio
-Baselga di Pine
+Baselga di Pinè
 Bedollo
 Besenello
 Bieno
@@ -2888,7 +2917,9 @@ Bondone
 Borgo Valsugana
 Brentonico
 Bresimo
+Brez
 Caderzone Terme
+Cagnò
 Calceranica al Lago
 Caldes
 Caldonazzo
@@ -2898,9 +2929,11 @@ Campodenno
 Canal San Bovo
 Canazei
 Capriana
+Carano
 Carisolo
 Carzano
 Castel Condino
+Castelfondo
 Castello-Molina di Fiemme
 Castello Tesino
 Castelnuovo
@@ -2914,16 +2947,20 @@ Cinte Tesino
 Cis
 Civezzano
 Cles
+Cloz
 Commezzadura
 Croviana
+Daiano
 Dambel
 Denno
 Drena
 Dro
+Faedo
 Fai della Paganella
-Fiave
+Fiavè
 Fierozzo
 Folgaria
+Fondo
 Fornace
 Frassilongo
 Garniga Terme
@@ -2938,7 +2975,8 @@ Levico Terme
 Livo
 Lona-Lases
 Luserna
-Male
+Malé
+Malosco
 Massimeno
 Mazzin
 Mezzana
@@ -2949,13 +2987,14 @@ Moena
 Molveno
 Mori
 Nago-Torbole
+Nave San Rocco
 Nogaredo
 Nomi
 Novaledo
 Ospedaletto
 Ossana
-Palu del Fersina
-Panchia
+Palù del Fersina
+Panchià
 Ronzo-Chienis
 Peio
 Pellizzano
@@ -2966,14 +3005,16 @@ Pinzolo
 Pomarolo
 Predazzo
 Rabbi
+Revò
 Riva del Garda
+Romallo
 Romeno
 Roncegno Terme
 Ronchi Valsugana
 Ronzone
-Rovere della Luna
+Roverè della Luna
 Rovereto
-Ruffre-Mendola
+Ruffrè-Mendola
 Rumo
 Sagron Mis
 Samone
@@ -3006,10 +3047,12 @@ Trambileno
 Trento
 Valfloriana
 Vallarsa
+Varena
 Vermiglio
 Vignola-Falesina
 Villa Lagarina
 Volano
+Zambana
 Ziano di Fiemme
 Comano Terme
 Ledro
@@ -3025,7 +3068,7 @@ Borgo Chiese
 Borgo Lares
 Castel Ivano
 Cembra Lisignago
-Conta
+Contà
 Madruzzo
 Porte di Rendena
 Primiero San Martino di Castrozza
@@ -3033,11 +3076,7 @@ Sella Giudicarie
 Tre Ville
 Vallelaghi
 Ville d'Anaunia
-San Giovanni di Fassa
-Terre d'Adige
-Borgo d'Anaunia
-Novella
-Ville di Fiemme
+Sèn Jan di Fassa
 Affi
 Albaredo d'Adige
 Angiari
@@ -3068,8 +3107,8 @@ Cologna Veneta
 Colognola ai Colli
 Concamarise
 Costermano sul Garda
-Dolce
-Erbe
+Dolcè
+Erbè
 Erbezzo
 Ferrara di Monte Baldo
 Fumane
@@ -3089,22 +3128,22 @@ Minerbe
 Montecchia di Crosara
 Monteforte d'Alpone
 Mozzecane
-Negrar di Valpolicella
+Negrar
 Nogara
 Nogarole Rocca
 Oppeano
-Palu
+Palù
 Pastrengo
 Pescantina
 Peschiera del Garda
 Povegliano Veronese
 Pressana
 Rivoli Veronese
-Ronca
+Roncà
 Ronco all'Adige
 Roverchiara
-Roveredo di Gua
-Rovere Veronese
+Roveredo di Guà
+Roverè Veronese
 Salizzole
 San Bonifacio
 San Giovanni Ilarione
@@ -3121,7 +3160,7 @@ Selva di Progno
 Soave
 Sommacampagna
 Sona
-Sorga
+Sorgà
 Terrazzo
 Torri del Benaco
 Tregnago
@@ -3157,14 +3196,17 @@ Caltrano
 Calvene
 Camisano Vicentino
 Campiglia dei Berici
-Carre
+Campolongo sul Brenta
+Carrè
 Cartigliano
 Cassola
 Castegnero
 Castelgomberto
 Chiampo
 Chiuppano
+Cismon del Grappa
 Cogollo del Cengio
+Conco
 Cornedo Vicentino
 Costabissara
 Creazzo
@@ -3184,9 +3226,12 @@ Lastebasse
 Longare
 Lonigo
 Lugo di Vicenza
+Lusiana
 Malo
 Marano Vicentino
 Marostica
+Mason Vicentino
+Molvena
 Montebello Vicentino
 Montecchio Maggiore
 Montecchio Precalcino
@@ -3213,11 +3258,12 @@ Quinto Vicentino
 Recoaro Terme
 Roana
 Romano d'Ezzelino
-Rosa
+Rosà
 Rossano Veneto
 Rotzo
 Salcedo
 Sandrigo
+San Nazario
 San Pietro Mussolino
 Santorso
 San Vito di Leguzzano
@@ -3237,23 +3283,21 @@ Trissino
 Valdagno
 Valdastico
 Valli del Pasubio
+Valstagna
 Velo d'Astico
 Vicenza
 Villaga
 Villaverla
-Zane
+Zanè
 Zermeghedo
 Zovencedo
 Zugliano
 Val Liona
 Barbarano Mossano
-Valbrenta
-Colceresa
-Lusiana Conco
 Agordo
 Alano di Piave
 Alleghe
-Arsie
+Arsiè
 Auronzo di Cadore
 Belluno
 Borca di Cadore
@@ -3274,10 +3318,12 @@ Canale d'Agordo
 Gosaldo
 Lamon
 La Valle Agordina
+Lentiai
 Limana
 Livinallongo del Col di Lana
 Lorenzago di Cadore
 Lozzo di Cadore
+Mel
 Ospitale di Cadore
 Pedavena
 Perarolo di Cadore
@@ -3286,7 +3332,7 @@ Ponte nelle Alpi
 Rivamonte Agordino
 Rocca Pietore
 San Gregorio nelle Alpi
-San Nicolo di Comelico
+San Nicolò di Comelico
 San Pietro di Cadore
 Santa Giustina
 San Tomaso Agordino
@@ -3300,17 +3346,17 @@ Soverzene
 Sovramonte
 Taibon Agordino
 Tambre
+Trichiana
 Vallada Agordina
 Valle di Cadore
 Vigo di Cadore
 Vodo Cadore
 Voltago Agordino
-Zoppe di Cadore
+Zoppè di Cadore
 Quero Vas
 Longarone
 Alpago
 Val di Zoldo
-Borgo Valbelluna
 Altivole
 Arcade
 Asolo
@@ -3329,11 +3375,12 @@ Cessalto
 Chiarano
 Cimadolmo
 Cison di Valmarino
-Codogne
+Codognè
 Colle Umberto
 Conegliano
 Cordignano
 Cornuda
+Crespano del Grappa
 Crocetta del Montello
 Farra di Soligo
 Follina
@@ -3346,7 +3393,7 @@ Godega di Sant'Urbano
 Gorgo al Monticano
 Istrana
 Loria
-Mansue
+Mansuè
 Mareno di Piave
 Maser
 Maserada sul Piave
@@ -3363,12 +3410,13 @@ Nervesa della Battaglia
 Oderzo
 Ormelle
 Orsago
+Paderno del Grappa
 Paese
 Pederobba
 Pieve di Soligo
 Ponte di Piave
 Ponzano Veneto
-Portobuffole
+Portobuffolè
 Possagno
 Povegliano
 Preganziol
@@ -3404,7 +3452,6 @@ Vittorio Veneto
 Volpago del Montello
 Zenson di Piave
 Zero Branco
-Pieve del Grappa
 Annone Veneto
 Campagna Lupia
 Campolongo Maggiore
@@ -3421,7 +3468,7 @@ Eraclea
 Fiesso d'Artico
 Fossalta di Piave
 Fossalta di Portogruaro
-Fosso
+Fossò
 Gruaro
 Jesolo
 Marcon
@@ -3437,11 +3484,11 @@ Portogruaro
 Pramaggiore
 Quarto d'Altino
 Salzano
-San Dona di Piave
+San Donà di Piave
 San Michele al Tagliamento
 Santa Maria di Sala
 San Stino di Livenza
-Scorze
+Scorzè
 Spinea
 Stra
 Teglio Veneto
@@ -3453,7 +3500,7 @@ Abano Terme
 Agna
 Albignasego
 Anguillara Veneta
-Arqua Petrarca
+Arquà Petrarca
 Arre
 Arzergrande
 Bagnoli di Sopra
@@ -3494,7 +3541,7 @@ Legnaro
 Limena
 Loreggia
 Lozzo Atestino
-Masera di Padova
+Maserà di Padova
 Masi
 Massanzago
 Megliadino San Vitale
@@ -3514,7 +3561,7 @@ Piove di Sacco
 Polverara
 Ponso
 Pontelongo
-Ponte San Nicolo
+Ponte San Nicolò
 Pozzonovo
 Rovolon
 Rubano
@@ -3553,7 +3600,7 @@ Due Carrare
 Borgo Veneto
 Adria
 Ariano nel Polesine
-Arqua Polesine
+Arquà Polesine
 Badia Polesine
 Bagnolo di Po
 Bergantino
@@ -3737,7 +3784,7 @@ Fiumicello Villa Vicentina
 Treppo Ligosullo
 Capriva del Friuli
 Cormons
-Doberdo del Lago
+Doberdò del Lago
 Dolegna del Collio
 Farra d'Isonzo
 Fogliano Redipuglia
@@ -3860,7 +3907,7 @@ Pigna
 Pompeiana
 Pontedassio
 Pornassio
-Prela
+Prelà
 Ranzo
 Rezzo
 Riva Ligure
@@ -4008,7 +4055,7 @@ Santa Margherita Ligure
 Sant'Olcese
 Santo Stefano d'Aveto
 Savignone
-Serra Ricco
+Serra Riccò
 Sestri Levante
 Sori
 Tiglieto
@@ -4040,7 +4087,7 @@ Monterosso al Mare
 Luni
 Pignone
 Portovenere
-Ricco del Golfo di Spezia
+Riccò del Golfo di Spezia
 Riomaggiore
 Rocchetta di Vara
 Santo Stefano di Magra
@@ -4116,6 +4163,7 @@ Fornovo di Taro
 Langhirano
 Lesignano de' Bagni
 Medesano
+Mezzani
 Monchio delle Corti
 Montechiarugolo
 Neviano degli Arduini
@@ -4129,6 +4177,7 @@ Salsomaggiore Terme
 San Secondo Parmense
 Solignano
 Soragna
+Sorbolo
 Terenzo
 Tizzano Val Parma
 Tornolo
@@ -4139,7 +4188,6 @@ Varano de' Melegari
 Varsi
 Sissa Trecasali
 Polesine Zibello
-Sorbolo Mezzani
 Albinea
 Bagnolo in Piano
 Baiso
@@ -4285,12 +4333,14 @@ Zola Predosa
 Valsamoggia
 Alto Reno Terme
 Argenta
+Berra
 Bondeno
 Cento
 Codigoro
 Comacchio
 Copparo
 Ferrara
+Formignana
 Jolanda di Savoia
 Lagosanto
 Masi Torello
@@ -4298,13 +4348,13 @@ Mesola
 Ostellato
 Poggio Renatico
 Portomaggiore
+Ro
 Vigarano Mainarda
 Voghiera
+Tresigallo
 Goro
 Fiscaglia
 Terre del Reno
-Riva del Po
-Tresignana
 Alfonsine
 Bagnacavallo
 Bagnara di Romagna
@@ -4378,8 +4428,6 @@ Sant'Agata Feltria
 Talamello
 Poggio Torriana
 Montescudo-Monte Colombo
-Montecopiolo
-Sassofeltrio
 Aulla
 Bagnone
 Carrara
@@ -4452,6 +4500,7 @@ Abetone Cutigliano
 San Marcello Piteglio
 Bagno a Ripoli
 Barberino di Mugello
+Barberino Val d'Elsa
 Borgo San Lorenzo
 Calenzano
 Campi Bisenzio
@@ -4485,12 +4534,12 @@ San Godenzo
 Scandicci
 Sesto Fiorentino
 Signa
+Tavarnelle Val di Pesa
 Vaglia
 Vicchio
 Vinci
 Figline e Incisa Valdarno
 Scarperia e San Piero
-Barberino Tavarnelle
 Bibbona
 Campiglia Marittima
 Campo nell'Elba
@@ -4555,7 +4604,7 @@ Bucine
 Capolona
 Caprese Michelangelo
 Castel Focognano
-Castel San Niccolo
+Castel San Niccolò
 Castiglion Fibocchi
 Castiglion Fiorentino
 Cavriglia
@@ -4580,7 +4629,7 @@ Sestino
 Subbiano
 Talla
 Terranuova Bracciolini
-Castelfranco Piandisco
+Castelfranco Piandiscò
 Pratovecchio Stia
 Laterina Pergine Valdarno
 Abbadia San Salvatore
@@ -4664,8 +4713,8 @@ Castel Ritaldi
 Castiglione del Lago
 Cerreto di Spoleto
 Citerna
-Citta della Pieve
-Citta di Castello
+Città della Pieve
+Città di Castello
 Collazzone
 Corciano
 Costacciaro
@@ -4747,6 +4796,7 @@ Terni
 Avigliano Umbro
 Acqualagna
 Apecchio
+Auditore
 Belforte all'Isauro
 Borgo Pace
 Cagli
@@ -4771,6 +4821,8 @@ Mondavio
 Mondolfo
 Montecalvo in Foglia
 Monte Cerignone
+Monteciccardo
+Montecopiolo
 Montefelcino
 Monte Grimano Terme
 Montelabbate
@@ -4786,6 +4838,8 @@ San Costanzo
 San Lorenzo in Campo
 Sant'Angelo in Vado
 Sant'Ippolito
+Sassocorvaro
+Sassofeltrio
 Serra Sant'Abbondio
 Tavoleto
 Tavullia
@@ -4794,7 +4848,6 @@ Urbino
 Vallefoglia
 Colli al Metauro
 Terre Roveresche
-Sassocorvaro Auditore
 Agugliano
 Ancona
 Arcevia
@@ -5514,7 +5567,7 @@ Carpineto della Nora
 Castiglione a Casauria
 Catignano
 Cepagatti
-Citta Sant'Angelo
+Città Sant'Angelo
 Civitaquana
 Civitella Casanova
 Collecorvino
@@ -6060,7 +6113,7 @@ Vico Equense
 Villaricca
 Visciano
 Volla
-Santa Maria la Carita
+Santa Maria la Carità
 Trecase
 Massa di Somma
 Aiello del Sabato
@@ -6490,6 +6543,7 @@ San Vito dei Normanni
 Torchiarolo
 Torre Santa Susanna
 Villa Castelli
+Acquarica del Capo
 Alessano
 Alezio
 Alliste
@@ -6540,7 +6594,7 @@ Monteroni di Lecce
 Montesano Salentino
 Morciano di Leuca
 Muro Leccese
-Nardo
+Nardò
 Neviano
 Nociglia
 Novoli
@@ -6548,8 +6602,9 @@ Ortelle
 Otranto
 Palmariggi
 Parabita
-Patu
+Patù
 Poggiardo
+Presicce
 Racale
 Ruffano
 Salice Salentino
@@ -6585,7 +6640,6 @@ Zollino
 San Cassiano
 Castro
 Porto Cesareo
-Presicce-Acquarica
 Andria
 Barletta
 Bisceglie
@@ -6795,7 +6849,7 @@ Longobardi
 Longobucco
 Lungro
 Luzzi
-Maiera
+Maierà
 Malito
 Malvito
 Mandatoriccio
@@ -6927,7 +6981,7 @@ Olivadi
 Palermiti
 Pentone
 Petrizzi
-Petrona
+Petronà
 Pianopoli
 Platania
 San Floro
@@ -6982,7 +7036,7 @@ Cardeto
 Careri
 Casignana
 Caulonia
-Cimina
+Ciminà
 Cinquefrondi
 Cittanova
 Condofuri
@@ -7004,7 +7058,7 @@ Mammola
 Marina di Gioiosa Ionica
 Maropati
 Martone
-Melicucca
+Melicuccà
 Melicucco
 Melito di Porto Salvo
 Molochio
@@ -7031,7 +7085,7 @@ San Giorgio Morgeto
 San Giovanni di Gerace
 San Lorenzo
 San Luca
-San Pietro di Carida
+San Pietro di Caridà
 San Procopio
 San Roberto
 Santa Cristina d'Aspromonte
@@ -7060,8 +7114,8 @@ Carfizzi
 Casabona
 Castelsilano
 Cerenzia
-Ciro
-Ciro Marina
+Cirò
+Cirò Marina
 Cotronei
 Crotone
 Crucoli
@@ -7087,7 +7141,7 @@ Briatico
 Brognaturo
 Capistrano
 Cessaniti
-Dasa
+Dasà
 Dinami
 Drapia
 Fabrizia
@@ -7155,7 +7209,6 @@ Trapani
 Valderice
 Vita
 Petrosino
-Misiliscemi
 Alia
 Alimena
 Aliminusa
@@ -7181,8 +7234,8 @@ Castelbuono
 Casteldaccia
 Castellana Sicula
 Castronovo di Sicilia
-Cefala Diana
-Cefalu
+Cefalà Diana
+Cefalù
 Cerda
 Chiusa Sclafani
 Ciminna
@@ -7243,7 +7296,7 @@ Alì
 Alì Terme
 Antillo
 Barcellona Pozzo di Gotto
-Basico
+Basicò
 Brolo
 Capizzi
 Capo d'Orlando
@@ -7254,16 +7307,16 @@ Castel di Lucio
 Castell'Umberto
 Castelmola
 Castroreale
-Cesaro
-Condro
+Cesarò
+Condrò
 Falcone
 Ficarra
 Fiumedinisi
 Floresta
 Fondachelli-Fantina
-Forza d'Agro
+Forza d'Agrò
 Francavilla di Sicilia
-Frazzano
+Frazzanò
 Furci Siculo
 Furnari
 Gaggi
@@ -7272,7 +7325,7 @@ Gallodoro
 Giardini-Naxos
 Gioiosa Marea
 Graniti
-Gualtieri Sicamino
+Gualtieri Sicaminò
 Itala
 Leni
 Letojanni
@@ -7283,7 +7336,7 @@ Longi
 Malfa
 Malvagna
 Mandanici
-Mazzarra Sant'Andrea
+Mazzarrà Sant'Andrea
 Merì
 Messina
 Milazzo
@@ -7463,7 +7516,7 @@ Misterbianco
 Motta Sant'Anastasia
 Nicolosi
 Palagonia
-Paterno
+Paternò
 Pedara
 Piedimonte Etneo
 Raddusa
@@ -7523,7 +7576,7 @@ Sortino
 Portopalo di Capo Passero
 Priolo Gargallo
 Aggius
-Ala dei Sardi
+Alà dei Sardi
 Alghero
 Anela
 Ardara
@@ -7538,7 +7591,7 @@ Bonorva
 Bortigiadas
 Borutta
 Bottidda
-Budduso
+Buddusò
 Bultei
 Bulzi
 Burgos
@@ -7565,7 +7618,7 @@ Monteleone Rocca Doria
 Monti
 Mores
 Muros
-Nughedu San Nicolo
+Nughedu San Nicolò
 Nule
 Nulvi
 Olbia
@@ -7595,7 +7648,7 @@ Tempio Pausania
 Thiesi
 Tissi
 Torralba
-Trinita d'Agultu e Vignola
+Trinità d'Agultu e Vignola
 Tula
 Uri
 Usini
@@ -7643,7 +7696,7 @@ Lanusei
 Lei
 Loceri
 Loculi
-Lode
+Lodè
 Lotzorai
 Lula
 Macomer
@@ -7679,7 +7732,7 @@ Tertenia
 Teti
 Tiana
 Tonara
-Torpe
+Torpè
 Tortolì
 Triei
 Ulassai
@@ -7727,7 +7780,7 @@ Cuglieri
 Fordongianus
 Ghilarza
 Gonnoscodina
-Gonnosno
+Gonnosnò
 Gonnostramatza
 Marrubiu
 Masullas
@@ -7750,7 +7803,7 @@ Pompu
 Riola Sardo
 Ruinas
 Samugheo
-San Nicolo d'Arcidano
+San Nicolò d'Arcidano
 Santa Giusta
 Villa Sant'Antonio
 Santu Lussurgiu
@@ -7772,7 +7825,7 @@ Tadasuni
 Terralba
 Tramatza
 Tresnuraghes
-Ula Tirso
+Ulà Tirso
 Uras
 Usellus
 Villanova Truschedu
@@ -7855,7 +7908,7 @@ Samatzai
 San Basilio
 San Gavino Monreale
 San Giovanni Suergiu
-San Nicolo Gerrei
+San Nicolò Gerrei
 San Sperate
 San Vito
 Sanluri
@@ -7899,219 +7952,3 @@ Villasalto
 Villasimius
 Villasor
 Villaspeciosa
-Albania
-Andorra
-Austria
-Belgio
-Bulgaria
-Danimarca
-Finlandia
-Francia
-Germania
-Regno Unito
-Grecia
-Irlanda
-Islanda
-Liechtenstein
-Lussemburgo
-Malta
-Monaco
-Norvegia
-Paesi Bassi
-Polonia
-Portogallo
-Romania
-San Marino
-Spagna
-Svezia
-Svizzera
-Ucraina
-Ungheria
-Federazione russa
-Stato della Citta del Vaticano
-Estonia
-Lettonia
-Lituania
-Croazia
-Slovenia
-Bosnia-Erzegovina
-Macedonia del Nord
-Moldova
-Slovacchia
-Bielorussia
-Repubblica ceca
-Montenegro
-Serbia
-Kosovo
-Afghanistan
-Arabia Saudita
-Bahrein
-Bangladesh
-Bhutan
-Myanmar/Birmania
-Brunei Darussalam
-Cambogia
-Sri Lanka
-Cina
-Cipro
-Corea del Nord
-Corea del Sud
-Emirati Arabi Uniti
-Filippine
-Palestina
-Giappone
-Giordania
-India
-Indonesia
-Iran
-Iraq
-Israele
-Kuwait
-Laos
-Libano
-Timor Leste
-Maldive
-Malaysia
-Mongolia
-Nepal
-Oman
-Pakistan
-Qatar
-Singapore
-Siria
-Thailandia
-Turchia
-Vietnam
-Yemen
-Kazakhstan
-Uzbekistan
-Armenia
-Azerbaigian
-Georgia
-Kirghizistan
-Tagikistan
-Taiwan
-Turkmenistan
-Algeria
-Angola
-Costa d'Avorio
-Benin
-Botswana
-Burkina Faso
-Burundi
-Camerun
-Capo Verde
-Repubblica Centrafricana
-Ciad
-Comore
-Congo
-Egitto
-Etiopia
-Gabon
-Gambia
-Ghana
-Gibuti
-Guinea
-Guinea-Bissau
-Guinea equatoriale
-Kenya
-Lesotho
-Liberia
-Libia
-Madagascar
-Malawi
-Mali
-Marocco
-Mauritania
-Maurizio
-Mozambico
-Namibia
-Niger
-Nigeria
-Ruanda
-Sao Tome e Principe
-Seychelles
-Senegal
-Sierra Leone
-Somalia
-Sudafrica
-Sudan
-Eswatini
-Tanzania
-Togo
-Tunisia
-Uganda
-Repubblica Democratica del Congo
-Zambia
-Zimbabwe
-Eritrea
-Sud Sudan
-Antigua e Barbuda
-Bahamas
-Barbados
-Belize
-Canada
-Costa Rica
-Cuba
-Dominica
-Repubblica Dominicana
-El Salvador
-Giamaica
-Grenada
-Guatemala
-Haiti
-Honduras
-Messico
-Nicaragua
-Panama
-Santa Lucia
-Saint Vincent e Grenadine
-Saint Kitts e Nevis
-Stati Uniti d'America
-Argentina
-Bolivia
-Brasile
-Cile
-Colombia
-Ecuador
-Guyana
-Paraguay
-Peru
-Suriname
-Trinidad e Tobago
-Uruguay
-Venezuela
-Australia
-Figi
-Kiribati
-Isole Marshall
-Stati Federati di Micronesia
-Nauru
-Nuova Zelanda
-Palau
-Papua Nuova Guinea
-Isole Salomone
-Samoa
-Tonga
-Tuvalu
-Vanuatu
-Nuova Caledonia
-Sahara occidentale
-Bermuda
-Isole Cook
-Gibilterra
-Isole Cayman
-Anguilla
-Polinesia francese
-Isole Far Oer
-Aruba
-Groenlandia
-Isole Falkland (Malvine)
-Isola di Man
-Montserrat
-Isole Pitcairn
-Saint Pierre e Miquelon
-Sant'Elena
-Isole Turks e Caicos
-Isole Vergini britanniche
-Wallis e Futuna
