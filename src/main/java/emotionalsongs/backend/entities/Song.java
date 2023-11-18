@@ -24,10 +24,33 @@ public class Song implements Serializable {
     private int year;
     private String author;
 
-    public Song(){
-        
+    private Song(){};
+
+    public Song(String title, Long duration, String type, int year, String author) {
+        this.title = title;
+        this.duration = duration;
+        this.type = type;
+        this.year = year;
+        this.author = author;
     }
 
-
-
+    //getters
+    public Long getId() {
+        return id;
+    }
+    public String getTitle() {
+        return title;
+    }
+    public Long getDuration() {
+        return duration;
+    }
+    public String getType() {
+        return type;
+    }
+    public int getYear() {
+        return year;
+    }
+    public String getAuthor() {
+        return author;
+    }
 }
