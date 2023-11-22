@@ -17,6 +17,8 @@ import com.vaadin.flow.component.textfield.PasswordField;
 import com.vaadin.flow.component.textfield.TextField;
 import com.vaadin.flow.router.PageTitle;
 import com.vaadin.flow.router.Route;
+import emotionalsongs.backend.repositories.SongsRepository;
+
 import java.sql.SQLException;
 import java.time.LocalDate;
 import java.util.*;
@@ -54,6 +56,7 @@ public class RegistrazioneView extends VerticalLayout {
     VerticalLayout regButtonLayout;
     Button registerButton;
     VerticalLayout pageLayout;
+    SongsRepository sr;
 //    ClientES client = ClientES.getInstance();
 
 

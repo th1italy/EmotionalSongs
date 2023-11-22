@@ -23,12 +23,12 @@ public class MainApplication implements AppShellConfigurator {
 		SpringApplication.run(MainApplication.class, args);
 	}
 
-	/*
+
 	@Bean
 	public CommandLineRunner tryBean(SongsRepository repository) {
 		return (args) -> {
 			repository.save(new Song("due", (long) 111, "bho", 2002, "io"));
 		};
 	}
-	 */
+
 }
