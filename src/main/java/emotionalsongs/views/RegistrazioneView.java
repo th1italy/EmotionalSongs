@@ -17,17 +17,14 @@ import com.vaadin.flow.component.textfield.PasswordField;
 import com.vaadin.flow.component.textfield.TextField;
 import com.vaadin.flow.router.PageTitle;
 import com.vaadin.flow.router.Route;
-import emotionalsongs.backend.repositories.SongsRepository;
-
 import java.sql.SQLException;
 import java.time.LocalDate;
 import java.util.*;
 
 /**
- * @author Acquati Luca
- * @author Jamil Muhammad Qasim
- * @author Naturale Lorenzo
- * @author Volonterio Luca
+ * @author Alessandro Bugno
+ * @author Daniele Maccagnan
+ * @author Tommaso Mariani
  * <p></p>
  * Classe che rappresenta la vista per la registrazione di un nuovo utente.
  * @version 1.0
@@ -56,7 +53,6 @@ public class RegistrazioneView extends VerticalLayout {
     VerticalLayout regButtonLayout;
     Button registerButton;
     VerticalLayout pageLayout;
-    SongsRepository sr;
 //    ClientES client = ClientES.getInstance();
 
 

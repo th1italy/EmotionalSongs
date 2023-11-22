@@ -3,11 +3,10 @@ package emotionalsongs;
 import com.vaadin.flow.component.page.AppShellConfigurator;
 import com.vaadin.flow.theme.Theme;
 import emotionalsongs.backend.entities.Song;
-import emotionalsongs.backend.repositories.SongsRepository;
+import emotionalsongs.backend.repositories.SongRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.context.annotation.Bean;
 
 /**
@@ -15,7 +14,7 @@ import org.springframework.context.annotation.Bean;
  * @author Daniele Maccagnan
  * @author Tommaso Mariani
  */
-@SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
+@SpringBootApplication()
 @Theme(value= "")
 public class MainApplication implements AppShellConfigurator {
 
@@ -24,10 +23,12 @@ public class MainApplication implements AppShellConfigurator {
 	}
 
 
+	//bean per testare connessione al db
 	@Bean
-	public CommandLineRunner tryBean(SongsRepository repository) {
+	public CommandLineRunner tryBean(SongRepository repository) {
 		return (args) -> {
-			repository.save(new Song("due", (long) 111, "bho", 2002, "io"));
+			repository.save(
+					new Song("due", (long) 111, "bho", 2002, "davide serio"));
 		};
 	}
 
