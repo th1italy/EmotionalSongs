@@ -53,8 +53,7 @@ public class RegistrazioneView extends VerticalLayout {
         setAlignItems(Alignment.CENTER);
 
         wrapperDiv = new Div();
-        wrapperDiv.getStyle()
-                .set("margin-right", "10px")
+        wrapperDiv.getStyle().set("margin-right", "10px")
                 .set("max-width", "800px")
                 .set("width", "100%")
                 .set("margin-left", "10px");

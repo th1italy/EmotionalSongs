@@ -30,6 +30,7 @@ public class PlayListView extends AppLayout {
         Header header = new Header(logo, appName);
 
         // Aggiungi il pulsante "Ricerca" con icona
+
         Button searchButton = new Button("Ricerca");
         searchButton.setIcon(new Icon(VaadinIcon.SEARCH));
         searchButton.addThemeVariants(ButtonVariant.LUMO_ICON); // Aggiungi il tema per l'icona

@@ -37,6 +37,7 @@ public class MainView extends AppLayout {
         playlistButton.addClickListener(e -> UI.getCurrent().navigate("playlist"));
 
         // Aggiungi il pulsante Login direttamente alla navbar
+
         Button loginButton = new Button("Login");
         loginButton.setIcon(new Icon(VaadinIcon.USER));
         loginButton.addClickListener(event -> openLoginDialog());
