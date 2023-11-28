@@ -26,14 +26,6 @@ public class Song implements Serializable {
 
     private Song(){};
 
-    public Song(String title, Long duration, String type, int year, String author) {
-        this.title = title;
-        this.duration = duration;
-        this.type = type;
-        this.year = year;
-        this.author = author;
-    }
-
     //getters
     public Long getId() {
         return id;
