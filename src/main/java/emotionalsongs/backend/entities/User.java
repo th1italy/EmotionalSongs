@@ -4,10 +4,6 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
 import java.io.Serializable;
-import java.nio.charset.StandardCharsets;
-import java.security.MessageDigest;
-import java.security.NoSuchAlgorithmException;
-
 
 /**
  * @author Alessandro Bugno
@@ -25,13 +21,12 @@ public class User implements Serializable {
     private String email;
     private String cf;
     private String password;
-    private final MessageDigest digest = MessageDigest.getInstance("SHA-256");
 
-    public User(String name, String surname, String email, String cf,String password) throws NoSuchAlgorithmException {
+    public User(String name, String surname, String email, String cf,String password){
         this.name = name;
         this.surname = surname;
         this.email = email;
         this.cf = cf;
-        this.password= digest.digest(password.getBytes(StandardCharsets.UTF_8)).toString();
+        this.password= password;
     }
 }

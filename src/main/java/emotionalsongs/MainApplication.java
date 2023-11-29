@@ -35,12 +35,4 @@ public class MainApplication implements AppShellConfigurator {
 	}
 	 */
 
-	@Bean
-	public CommandLineRunner userBean(UserRepository repository){
-		return (args)->{
-				repository.save(
-						new User("ale","ale","ale","ale","ciaocaioaciaociaocio"));
-				};
-	}
-
 }
