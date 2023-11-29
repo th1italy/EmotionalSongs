@@ -36,7 +36,7 @@ public class PlayListView extends AppLayout {
         searchButton.addThemeVariants(ButtonVariant.LUMO_ICON); // Aggiungi il tema per l'icona
         searchButton.getStyle().set("margin-right", "10px"); // Aggiungi un margine destro
         // Aggiungi qui la logica per la ricerca
-        searchButton.addClickListener(e -> UI.getCurrent().navigate("mainview"));
+        searchButton.addClickListener(e -> UI.getCurrent().navigate(""));
 
         // Aggiungi il pulsante Login direttamente alla navbar
         Button loginButton = new Button("Login");

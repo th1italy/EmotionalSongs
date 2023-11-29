@@ -27,8 +27,7 @@ public class MainApplication implements AppShellConfigurator {
 	@Bean
 	public CommandLineRunner tryBean(SongRepository repository) {
 		return (args) -> {
-			repository.save(
-					new Song("due", (long) 111, "bho", 2002, "davide serio"));
+
 		};
 	}
 

@@ -18,7 +18,7 @@ import com.vaadin.flow.router.Route;
 import com.vaadin.flow.theme.lumo.LumoUtility;
 import com.vaadin.flow.component.button.ButtonVariant;
 
-@Route("mainview")
+@Route("")
 public class MainView extends AppLayout {
 
     public MainView() {
