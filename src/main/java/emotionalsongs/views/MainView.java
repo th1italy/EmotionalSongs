@@ -69,7 +69,7 @@ public class MainView extends AppLayout {
         Button cerca = new Button("Cerca");
         cerca.setIcon(new Icon(VaadinIcon.SEARCH));
         cerca.addThemeVariants(ButtonVariant.LUMO_ICON);
-
+//
         HorizontalLayout searchLayout = new HorizontalLayout(titolo, anno, autore, cerca);
         searchLayout.setAlignItems(FlexComponent.Alignment.CENTER);
         searchLayout.setWidthFull();

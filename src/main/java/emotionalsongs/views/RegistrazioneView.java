@@ -24,7 +24,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
+//
 @PageTitle("Registrazione")
 @Route(value = "registrazione", layout = MainView.class)
 public class RegistrazioneView extends VerticalLayout {
